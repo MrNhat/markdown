@@ -27,35 +27,30 @@ _ This text also be italic._
 ### Lists
 #### Unordered
 ```
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-or:
 - Item 1
 - Item 2
   - Item 2a
   - Item 2b
 ```
-Result like as:
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+Result:
+- Item 1
+- Item 2
+  - Item 2a
+  - Item 2b
 
 #### Ordered
 ```
 1. Item 1
-2. Item 2
-3. Item 3
-  1. Item 3a
+1. Item 2
+1. Item 3
+  2. Item 3a
   2. Item 3b
 ```
-Result like as:
+Result:
 1. Item 1
-2. Item 2
-3. Item 3
-  1. Item 3a
+1. Item 2
+1. Item 3
+  2. Item 3a
   2. Item 3b
 
 ### Images
