@@ -89,3 +89,16 @@ This is `word` will be quota.
 > This is line will be quota.
 or
 This is `word` will be quota.
+
+### Tables
+```
+Title1 | Title2
+---------|--------
+content1 | content2
+content3 | content4
+```
+Title1 | Title2
+---------|--------
+content1 | content2
+content3 | content4
+
